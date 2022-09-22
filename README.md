@@ -37,7 +37,6 @@ SAD2 lab materials
 ---
 
 ## Project 1: Bayesian Networks
-Learning Bayesian networks from gene expression data
 
 ## Project 2: Gibbs Sampling 
 

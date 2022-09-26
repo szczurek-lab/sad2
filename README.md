@@ -21,16 +21,16 @@ SAD2 lab materials
    - MCMC
    - Gibbs sampling
 
-9. Model selection 
-   - Model evidence,
-   - Learning model structure, 
-   - Tree models, 
-   - General models, 
-   - Structural EM
+9. PyClone: real-life example of a Bayesian graphical model
 
-10. PyClone: real-life example of a Bayesian graphical model
+10. Model selection 
+    - Model evidence,
+    - Learning model structure, 
+    - Tree models, 
+    - General models, 
+    - Structural EM
 
-
+   
 ---
 
 ## Project 1: Bayesian Networks

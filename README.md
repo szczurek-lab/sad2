@@ -11,6 +11,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 ## Topics
 
 - Lab 1: Frequentist vs Bayesian: Intro to torch.distributions + Likelihoods
+    - [MLE vs MAP](https://agustinus.kristia.de/techblog/2017/01/01/mle-vs-map/)
 - Lab 2: TBA: Intro to Pyro
 
 ## Additional Materials 

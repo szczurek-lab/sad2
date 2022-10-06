@@ -17,7 +17,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [What is likelihood, really?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
     - Bootstrap - Chapter 8 in Wasserman \[4\] 
 
-- Lab 2: TBA: Intro to Pyro
+- Lab 2: TBA: Intro to Pyro, curve fitting
 
 ## Additional Materials 
 

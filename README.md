@@ -15,6 +15,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [When is MLE equal to MAP?](https://agustinus.kristia.de/techblog/2017/01/01/mle-vs-map/)
     - [What is the connection between MLE and MAP?](https://stats.stackexchange.com/questions/235070/relation-between-map-em-and-mle)
     - [What is likelihood, really?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
+    - Bootstrap - Chapter 8 in Wasserman \[4\] 
 
 - Lab 2: TBA: Intro to Pyro
 
@@ -34,3 +35,4 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 2. [David JC MacKay, et al. Information theory, inference and learning
 algorithms.](https://www.inference.org.uk/itprnn/book.pdf)
 3. [B. Lambert. A Student’s Guide to Bayesian Statistics.](https://ben-lambert.com/a-students-guide-to-bayesian-statistics/)
+4. [Larry A. Wasserman. All of Statistics: A Concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf)

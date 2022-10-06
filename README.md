@@ -1,40 +1,7 @@
-# Statistical data analysis 
-SAD2 lab materials
+# Statistical Data Analysis 2
 
-# Syllabus
+This is the official repository containing Lab materials for Statistical Data Analysis 2 (SAD2) course. 
 
-1. Frequentist vs Bayesian approach in statistical modeling
-2. Bayesian networks (probabilistic graphical models) 
-3. Hidden Markov Models and Gaussian Mixture Models
-4. EM algorithm (parameter estimation in models with hidden variables)
-5. Variational inference
-6. Variational autoencoders
-7. Exact inference in graphical models
-   - Factor graphs,
-   - The sum product algorithm,
-   - Cluster trees, 
-   - Potentials, 
-   - Message passing, 
-   - Junction tree algorithm.
+Expect lab materials in `.ipynb` format to appear before the class begins and solutions for the materials before the start of the next lab, a week later. 
 
-8. Sampling methods
-   - MCMC
-   - Gibbs sampling
-
-9. PyClone: real-life example of a Bayesian graphical model
-
-10. Model selection 
-    - Model evidence,
-    - Learning model structure, 
-    - Tree models, 
-    - General models, 
-    - Structural EM
-
-   
----
-
-## Project 1: Bayesian Networks
-
-## Project 2: Gibbs Sampling 
-
-
+We will also post here additional materials mentioned during lab meetings. 

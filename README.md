@@ -6,4 +6,4 @@ Expect lab materials in `.ipynb` format to appear before the class begins and so
 
 We will also post here additional materials mentioned during lab meetings. 
 
-We encourage you to work together on Lab materials, discuss lecute content and connect on [Discord](https://discord.gg/DYE7YZUN)
+We encourage you to connect, collaborate and work together on Lab materials or lectures on [Discord](https://discord.gg/DYE7YZUN).

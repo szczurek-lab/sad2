@@ -11,8 +11,8 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 ## Topics
 
 - Lab 1: Frequentist vs Bayesian: Intro to torch.distributions + Likelihoods
-    - [When is MLE equal to MAP](https://agustinus.kristia.de/techblog/2017/01/01/mle-vs-map/)
-    - [Connection between MLE and MAP](https://stats.stackexchange.com/questions/235070/relation-between-map-em-and-mle)
+    - [When is MLE equal to MAP?](https://agustinus.kristia.de/techblog/2017/01/01/mle-vs-map/)
+    - [What is the connection between MLE and MAP?](https://stats.stackexchange.com/questions/235070/relation-between-map-em-and-mle)
     - [What is likelihood, really?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
 
 - Lab 2: TBA: Intro to Pyro

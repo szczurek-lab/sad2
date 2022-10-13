@@ -14,6 +14,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Reasoning about Shapes and Probability Distributions](https://ericmjl.github.io/blog/2019/5/29/reasoning-about-shapes-and-probability-distributions/) 
     - [When is MLE equal to MAP?](https://agustinus.kristia.de/techblog/2017/01/01/mle-vs-map/)
     - [What is the connection between MLE and MAP?](https://stats.stackexchange.com/questions/235070/relation-between-map-em-and-mle)
+    - [What is the connection between MLE and MAP II?](https://math.stackexchange.com/questions/2917109/map-solution-for-linear-regression-what-is-a-gaussian-prior)
     - [What is likelihood, really?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
     - Bootstrap - Chapter 8 in Wasserman \[4\] 
     - [What is the difference between maximum likelihood estimation (MLE) vs. least squares estimaton (LSE)?](https://stats.stackexchange.com/questions/143705/maximum-likelihood-method-vs-least-squares-method)

@@ -18,11 +18,13 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [What is likelihood, really?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
     - Bootstrap - Chapter 8 in Wasserman \[4\] 
     - [What is the difference between maximum likelihood estimation (MLE) vs. least squares estimaton (LSE)?](https://stats.stackexchange.com/questions/143705/maximum-likelihood-method-vs-least-squares-method)
+    - ["Learning probabilistic models" lecture by Roger Grosse and Nitish Srivastava (especially 3.3)](http://www.cs.toronto.edu/~rgrosse/csc321/probabilistic_models.pdf)
 
 - Lab 2: Bayesian Nets: conditional independence, Markov's blanket, Berkson's paradox, d-separation 
     - [Berkson paradox in medical care](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12363)
     - [Does Hollywood ruin books? - Numberphile](https://www.youtube.com/watch?v=FUD8h9JpEVQ&ab_channel=Numberphile)
     - [The selection-distortion effect: How selection changes correlations in surprising ways: The burger-fries tradeoff](https://thehardestscience.com/2014/08/04/the-selection-distortion-effect-how-selection-changes-correlations-in-surprising-ways/)
+    -  [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
 
 
 ## Additional Materials 

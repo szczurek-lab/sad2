@@ -2,7 +2,7 @@
 
 This is the official repository containing Lab materials for Statistical Data Analysis 2 (SAD2) course. 
 
-Expect lab materials in `.ipynb` format to appear before the class begins and solutions for the materials before the start of the next lab, a week later. 
+Expect lab materials in `.ipynb` or `.pdf` format to appear before the class begins and solutions for the programming exercises before the start of the next lab, a week later. 
 
 We will also post here additional materials mentioned during lab meetings. 
 
@@ -45,3 +45,5 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 algorithms.](https://www.inference.org.uk/itprnn/book.pdf)
 3. [B. Lambert. A Student’s Guide to Bayesian Statistics.](https://ben-lambert.com/a-students-guide-to-bayesian-statistics/)
 4. [Larry A. Wasserman. All of Statistics: A Concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
+
+

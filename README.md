@@ -25,7 +25,8 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Does Hollywood ruin books? - Numberphile](https://www.youtube.com/watch?v=FUD8h9JpEVQ&ab_channel=Numberphile)
     - [The selection-distortion effect: How selection changes correlations in surprising ways: The burger-fries tradeoff](https://thehardestscience.com/2014/08/04/the-selection-distortion-effect-how-selection-changes-correlations-in-surprising-ways/)
     - [Berkson's paradox with lots of examples on Brilliant](https://brilliant.org/wiki/berksons-paradox/) 
-    -  [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
+    - [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
+    - [Statistical Rethinking 2022 on Confounders](https://www.youtube.com/watch?v=UpP-_mBvECI&ab_channel=RichardMcElreath)
 
 
 ## Additional Materials 

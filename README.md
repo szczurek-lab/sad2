@@ -46,4 +46,6 @@ algorithms.](https://www.inference.org.uk/itprnn/book.pdf)
 3. [B. Lambert. A Student’s Guide to Bayesian Statistics.](https://ben-lambert.com/a-students-guide-to-bayesian-statistics/)
 4. [Larry A. Wasserman. All of Statistics: A Concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
 
+## Prerequisites
+TBD
 

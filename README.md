@@ -10,6 +10,9 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 
 ## Topics
 
+- 0: Useful across all labs
+    - [Matplotlib visualisations for pyro and torch.distributions](http://jonathanpchen.com/makeplot/)
+
 - Lab 1: Frequentist vs Bayesian: Intro to torch.distributions + Likelihoods
     - [Reasoning about Shapes and Probability Distributions](https://ericmjl.github.io/blog/2019/5/29/reasoning-about-shapes-and-probability-distributions/) 
     - [When is MLE equal to MAP?](https://agustinus.kristia.de/techblog/2017/01/01/mle-vs-map/)
@@ -27,6 +30,13 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Berkson's paradox with lots of examples on Brilliant](https://brilliant.org/wiki/berksons-paradox/) 
     - [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
     - [Statistical Rethinking 2022 on Confounders](https://www.youtube.com/watch?v=UpP-_mBvECI&ab_channel=RichardMcElreath)
+
+
+- Lab 3: Gaussian Mixture Models & Expectation Maximization
+    - [Broad overview of EM by Karin Knudson](https://karinknudson.com/expectationmaximization.html)
+    - [What is the difference between EM and gradient descent?](https://stats.stackexchange.com/questions/45652/what-is-the-difference-between-em-and-gradient-ascent/45653#45653)
+    - [When k-means algorithm corresponds to EM?](https://perso.telecom-paristech.fr/bonald/documents/gmm.pdf)
+    - ["Mixture models" lecture by Roger Grosse and Nitish Srivastava](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf)
 
 
 ## Additional Materials 

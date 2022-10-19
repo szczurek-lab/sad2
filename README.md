@@ -2,13 +2,17 @@
 
 This is the official repository containing Lab materials for Statistical Data Analysis 2 (SAD2) course. 
 
-Expect lab materials in `.ipynb` format to appear before the class begins and solutions for the materials before the start of the next lab, a week later. 
+Expect lab materials in `.ipynb` or `.pdf` format to appear before the class begins and solutions for the programming exercises before the start of the next lab, a week later. 
 
 We will also post here additional materials mentioned during lab meetings. 
 
 We encourage you to connect, collaborate and work together on Lab materials and lectures on [Discord](https://discord.gg/DYE7YZUN). We are always open and happy to discuss topics related to the course, so please feel free to reach out and ask questions on Discord.
 
 ## Topics
+
+- 0: Useful across all labs
+    - [Matplotlib visualisations for pyro and torch.distributions](http://jonathanpchen.com/makeplot/)
+    - [Good **research** code](https://goodresearch.dev/_static/book.pdf)
 
 - Lab 1: Frequentist vs Bayesian: Intro to torch.distributions + Likelihoods
     - [Reasoning about Shapes and Probability Distributions](https://ericmjl.github.io/blog/2019/5/29/reasoning-about-shapes-and-probability-distributions/) 
@@ -24,7 +28,18 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Berkson paradox in medical care](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12363)
     - [Does Hollywood ruin books? - Numberphile](https://www.youtube.com/watch?v=FUD8h9JpEVQ&ab_channel=Numberphile)
     - [The selection-distortion effect: How selection changes correlations in surprising ways: The burger-fries tradeoff](https://thehardestscience.com/2014/08/04/the-selection-distortion-effect-how-selection-changes-correlations-in-surprising-ways/)
-    -  [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
+    - [Berkson's paradox with lots of examples on Brilliant](https://brilliant.org/wiki/berksons-paradox/) 
+    - [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
+    - [Statistical Rethinking 2022 on Confounders](https://www.youtube.com/watch?v=UpP-_mBvECI&ab_channel=RichardMcElreath)
+
+
+- Lab 3: Gaussian Mixture Models & Expectation Maximization
+    - [Broad overview of EM by Karin Knudson](https://karinknudson.com/expectationmaximization.html)
+    - [What is the difference between EM and gradient descent?](https://stats.stackexchange.com/questions/45652/what-is-the-difference-between-em-and-gradient-ascent/45653#45653)
+    - [When does the EM for Gaussian mixture model has one of the Gaussian diminish to exactly one point and have zero variance?](https://stats.stackexchange.com/questions/145458/when-does-the-em-for-gaussian-mixture-model-has-one-of-the-gaussian-diminish-to)
+    - [When k-means algorithm corresponds to EM?](https://perso.telecom-paristech.fr/bonald/documents/gmm.pdf)
+    - [Singularity issues in Gaussian Mixture Models](https://stats.stackexchange.com/questions/219302/singularity-issues-in-gaussian-mixture-model)
+    - ["Mixture models" lecture by Roger Grosse and Nitish Srivastava](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf)
 
 
 ## Additional Materials 
@@ -44,3 +59,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 algorithms.](https://www.inference.org.uk/itprnn/book.pdf)
 3. [B. Lambert. A Student’s Guide to Bayesian Statistics.](https://ben-lambert.com/a-students-guide-to-bayesian-statistics/)
 4. [Larry A. Wasserman. All of Statistics: A Concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
+
+## Prerequisites
+TBD
+

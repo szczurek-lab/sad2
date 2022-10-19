@@ -12,6 +12,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 
 - 0: Useful across all labs
     - [Matplotlib visualisations for pyro and torch.distributions](http://jonathanpchen.com/makeplot/)
+    - [Good **research** code](https://goodresearch.dev/_static/book.pdf)
 
 - Lab 1: Frequentist vs Bayesian: Intro to torch.distributions + Likelihoods
     - [Reasoning about Shapes and Probability Distributions](https://ericmjl.github.io/blog/2019/5/29/reasoning-about-shapes-and-probability-distributions/) 

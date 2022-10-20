@@ -34,6 +34,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 
 
 - Lab 3: Gaussian Mixture Models & Expectation Maximization
+    - [Recipe for figuring out d-separation](http://web.mit.edu/jmn/www/6.034/d-separation.pdf)
     - [Broad overview of EM by Karin Knudson](https://karinknudson.com/expectationmaximization.html)
     - [What is the difference between EM and gradient descent?](https://stats.stackexchange.com/questions/45652/what-is-the-difference-between-em-and-gradient-ascent/45653#45653)
     - [When does the EM for Gaussian mixture model has one of the Gaussian diminish to exactly one point and have zero variance?](https://stats.stackexchange.com/questions/145458/when-does-the-em-for-gaussian-mixture-model-has-one-of-the-gaussian-diminish-to)

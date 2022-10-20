@@ -6,8 +6,9 @@ In the tutorials below, you will find an implementation of Gaussian Mixture Mode
 
 
 Using those tutorials, implement a full EM for GMM in torch.distributions.
-Variant A) Pair up. One person in the pair implements an EM, second person implements GMM.
-Variant B) Implement EM for GMM **from scratch**. 
+
+- Variant A) Pair up. One person in the pair implements an EM, second person implements GMM.
+- Variant B) Implement EM for GMM **from scratch**. 
 
 
 Then, using *sklearn* *kmeans* and your implementation of EM, do the "Dreadful mouse" exercise. Prepare your solution in jupyter notebook, push it to your own repo and send a link to your TA (p.szymczak8@uw.edu.pl or adam.izdebski@mimuw.edu.pl)

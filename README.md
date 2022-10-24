@@ -32,7 +32,6 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
     - [Statistical Rethinking 2022 on Confounders](https://www.youtube.com/watch?v=UpP-_mBvECI&ab_channel=RichardMcElreath)
 
-
 - Lab 3: Gaussian Mixture Models & Expectation Maximization
     - [Recipe for figuring out d-separation](http://web.mit.edu/jmn/www/6.034/d-separation.pdf)
     - [Broad overview of EM by Karin Knudson](https://karinknudson.com/expectationmaximization.html)
@@ -42,7 +41,8 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Singularity issues in Gaussian Mixture Models](https://stats.stackexchange.com/questions/219302/singularity-issues-in-gaussian-mixture-model)
     - ["Mixture models" lecture by Roger Grosse and Nitish Srivastava](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf)
 
-
+- Lab 4: KL divergence & General Expectation Maximization 
+    - [KL divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 ## Additional Materials 
 
 - Notes created by students and curated by us: [link](https://www.overleaf.com/1932227257jjpwpnrcwmjj)

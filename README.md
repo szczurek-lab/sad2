@@ -62,5 +62,5 @@ algorithms.](https://www.inference.org.uk/itprnn/book.pdf)
 4. [Larry A. Wasserman. All of Statistics: A Concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
 
 ## Prerequisites
-TBD
+The course assumes the level of mathematical maturity neccessary to understand the first two chapters of [1]. As for programming skills, it nice to be fluent in Python Pytorch. As a rule of thumb, you should be able to [train a classifier using PyTorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html?highlight=data%20loader) and be familiar with the [basics of DL](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html). As your programming skills are neccessary to finish Homework 1 which is announced only several weeks after the start of the code, it is fine to learn the programming skills on the fly. 
 

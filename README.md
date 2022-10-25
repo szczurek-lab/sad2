@@ -32,8 +32,8 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
     - [Statistical Rethinking 2022 on Confounders](https://www.youtube.com/watch?v=UpP-_mBvECI&ab_channel=RichardMcElreath)
 
-
 - Lab 3: Gaussian Mixture Models & Expectation Maximization
+    - [Recipe for figuring out d-separation](http://web.mit.edu/jmn/www/6.034/d-separation.pdf)
     - [Broad overview of EM by Karin Knudson](https://karinknudson.com/expectationmaximization.html)
     - [What is the difference between EM and gradient descent?](https://stats.stackexchange.com/questions/45652/what-is-the-difference-between-em-and-gradient-ascent/45653#45653)
     - [When does the EM for Gaussian mixture model has one of the Gaussian diminish to exactly one point and have zero variance?](https://stats.stackexchange.com/questions/145458/when-does-the-em-for-gaussian-mixture-model-has-one-of-the-gaussian-diminish-to)
@@ -41,7 +41,8 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Singularity issues in Gaussian Mixture Models](https://stats.stackexchange.com/questions/219302/singularity-issues-in-gaussian-mixture-model)
     - ["Mixture models" lecture by Roger Grosse and Nitish Srivastava](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf)
 
-
+- Lab 4: KL divergence & General Expectation Maximization 
+    - [KL divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 ## Additional Materials 
 
 - Notes created by students and curated by us: [link](https://www.overleaf.com/1932227257jjpwpnrcwmjj)
@@ -61,5 +62,5 @@ algorithms.](https://www.inference.org.uk/itprnn/book.pdf)
 4. [Larry A. Wasserman. All of Statistics: A Concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
 
 ## Prerequisites
-TBD
+The course assumes the level of mathematical maturity neccessary to understand the first two chapters of [1]. As for programming skills, it nice to be fluent in Python Pytorch. As a rule of thumb, you should be able to [train a classifier using PyTorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html?highlight=data%20loader) and be familiar with the [basics of DL](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html). As your programming skills are neccessary to finish Homework 1 which is announced only several weeks after the start of the code, it is fine to learn the programming skills on the fly. 
 

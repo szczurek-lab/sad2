@@ -23,6 +23,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - Bootstrap - Chapter 8 in Wasserman \[4\] 
     - [What is the difference between maximum likelihood estimation (MLE) vs. least squares estimaton (LSE)?](https://stats.stackexchange.com/questions/143705/maximum-likelihood-method-vs-least-squares-method)
     - [Section 3.3 in "Learning probabilistic models" lecture by Roger Grosse and Nitish Srivastava](http://www.cs.toronto.edu/~rgrosse/csc321/probabilistic_models.pdf)
+    - [Conjugate Priors in Think Bayes](http://allendowney.github.io/ThinkBayes2/chap18.html)
 
 - Lab 2: Bayesian Nets: conditional independence, Markov's blanket, Berkson's paradox, d-separation 
     - [Berkson paradox in medical care](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12363)

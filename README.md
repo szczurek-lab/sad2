@@ -26,20 +26,18 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 
 - Lab 2: Bayesian Nets: conditional independence, Markov's blanket, Berkson's paradox, d-separation 
     - [Berkson paradox in medical care](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12363)
-    - [Does Hollywood ruin books? - Numberphile](https://www.youtube.com/watch?v=FUD8h9JpEVQ&ab_channel=Numberphile)
-    - [The selection-distortion effect: How selection changes correlations in surprising ways: The burger-fries tradeoff](https://thehardestscience.com/2014/08/04/the-selection-distortion-effect-how-selection-changes-correlations-in-surprising-ways/)
     - [Berkson's paradox with lots of examples on Brilliant](https://brilliant.org/wiki/berksons-paradox/) 
     - [d-separation WITHOUT TEARS](http://bayes.cs.ucla.edu/BOOK-2K/d-sep.html)
-    - [Statistical Rethinking 2022 on Confounders](https://www.youtube.com/watch?v=UpP-_mBvECI&ab_channel=RichardMcElreath)
+    - [Recipe for figuring out d-separation by hand](http://web.mit.edu/jmn/www/6.034/d-separation.pdf) 
+    - [Importance of d-separation in causal inference](https://www.andrew.cmu.edu/user/scheines/tutor/d-sep.html)
 
 - Lab 3: Gaussian Mixture Models & Expectation Maximization
-    - [Recipe for figuring out d-separation](http://web.mit.edu/jmn/www/6.034/d-separation.pdf)
-    - [Broad overview of EM by Karin Knudson](https://karinknudson.com/expectationmaximization.html)
+    
+    - [Broad overview of EM and its relationship with Gibbs sampling](https://karinknudson.com/expectationmaximization.html)
     - [What is the difference between EM and gradient descent?](https://stats.stackexchange.com/questions/45652/what-is-the-difference-between-em-and-gradient-ascent/45653#45653)
     - [When does the EM for Gaussian mixture model has one of the Gaussian diminish to exactly one point and have zero variance?](https://stats.stackexchange.com/questions/145458/when-does-the-em-for-gaussian-mixture-model-has-one-of-the-gaussian-diminish-to)
     - [When k-means algorithm corresponds to EM?](https://perso.telecom-paristech.fr/bonald/documents/gmm.pdf)
     - [Singularity issues in Gaussian Mixture Models](https://stats.stackexchange.com/questions/219302/singularity-issues-in-gaussian-mixture-model)
-    - ["Mixture models" lecture by Roger Grosse and Nitish Srivastava](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf)
 
 - Lab 4: KL divergence & General Expectation Maximization 
     - [KL divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)

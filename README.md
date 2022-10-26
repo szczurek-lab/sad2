@@ -41,6 +41,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 
 - Lab 4: KL divergence & General Expectation Maximization 
     - [KL divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+    
 ## Additional Materials 
 
 - Notes created by students and curated by us: [link](https://www.overleaf.com/1932227257jjpwpnrcwmjj)

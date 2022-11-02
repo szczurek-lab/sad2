@@ -43,6 +43,11 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 - Lab 4: KL divergence & General Expectation Maximization 
     - [KL divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
     
+- Lab 5: Variational inference
+    - [SVI in Pyro](https://pyro.ai/examples/svi_part_i.html)
+    - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+    - [Variational Inference
+for Machine Learning](https://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/week2/variational-inference-tutorial,-mohamed,-2015.pdf)
 ## Additional Materials 
 
 - Notes created by students and curated by us: [link](https://www.overleaf.com/1932227257jjpwpnrcwmjj)

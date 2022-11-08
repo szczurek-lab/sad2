@@ -48,11 +48,12 @@ We encourage you to connect, collaborate and work together on Lab materials and 
     - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
     - [Variational Inference
 for Machine Learning](https://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/week2/variational-inference-tutorial,-mohamed,-2015.pdf)
-## Additional Materials 
 
 - Lab 6 and 7: Variational Autoencoders
     - [Tutorial on VAEs](https://arxiv.org/abs/1606.05908)
     - (Optional) [Information Theoretic Interpretation of VAEs](https://arxiv.org/abs/2006.10273)
+
+## Additional Materials 
 
 - Notes created by students and curated by us: [link](https://www.overleaf.com/1932227257jjpwpnrcwmjj)
 - Who works on which topic: [link](https://docs.google.com/spreadsheets/d/1y92labArnVnMzc2nIDPOBBZA0gcn_Ep9ZEN9kvTEfXk/edit#gid=1392012547)

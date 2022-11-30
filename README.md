@@ -53,6 +53,13 @@ for Machine Learning](https://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/w
     - [Tutorial on VAEs](https://arxiv.org/abs/1606.05908)
     - (Optional) [Information Theoretic Interpretation of VAEs](https://arxiv.org/abs/2006.10273)
 
+- Lab 8: Exact inference in acyclic graphical models: Sum-product algorithm
+    - [Probabilistic Graphical Models lecture pt. 1 by University of Toronto](/courses/GraphicalModels/lecture4.pdf)
+    - [Probabilistic Graphical Models lecture pt. 2 by University of Toronto](/courses/GraphicalModels/lecture5.pdf)
+    - [Sum Product Algorithm](https://www.di.ens.fr/~fbach/courses/fall2014/lecture7.pdf)
+    - [Graphical models and belief propagation](http://helper.ipam.ucla.edu/publications/gss2013/gss2013_11344.pdf)
+
+
 ## Additional Materials 
 
 - Notes created by students and curated by us: [link](https://www.overleaf.com/1932227257jjpwpnrcwmjj)

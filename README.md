@@ -59,6 +59,9 @@ for Machine Learning](https://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/w
     - [Sum Product Algorithm](https://www.di.ens.fr/~fbach/courses/fall2014/lecture7.pdf)
     - [Graphical models and belief propagation](http://helper.ipam.ucla.edu/publications/gss2013/gss2013_11344.pdf)
 
+- Lab 9: MCMC
+    - [What is causing autocorrelation in MCMC sampler?](https://stats.stackexchange.com/questions/212442/what-is-causing-autocorrelation-in-mcmc-sampler) 
+    - [Thinning to reduce autocorrelation: Rarely useful!](http://doingbayesiandataanalysis.blogspot.com/2011/11/thinning-to-reduce-autocorrelation.html)
 
 ## Additional Materials 
 

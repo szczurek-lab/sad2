@@ -50,6 +50,7 @@ We encourage you to connect, collaborate and work together on Lab materials and 
 for Machine Learning](https://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/week2/variational-inference-tutorial,-mohamed,-2015.pdf)
 
 - Lab 6 and 7: Variational Autoencoders
+    - [LVMs and VAEs](http://krasserm.github.io/2019/12/17/latent-variable-models-part-2/)
     - [Tutorial on VAEs](https://arxiv.org/abs/1606.05908)
     - (Optional) [Information Theoretic Interpretation of VAEs](https://arxiv.org/abs/2006.10273)
 
